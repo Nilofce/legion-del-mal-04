@@ -48,6 +48,10 @@ La guarida principal de la Legión del Mal. Lex Luthor la construyó dentro de u
 - Arsenal principal
 - Muelle submarino oculto con 2 submarinos
 
+### Nivel 6 - Confinamiento 
+
+- Celdas para dar una lección a aquellos que no se quieran doblegar ante nosotros.
+
 ## Sistemas de seguridad
 
 - Escudo electromagnético de Magneto (bloquea señales de rastreo)
