@@ -1,10 +1,9 @@
 ---
-name: Plantilla de reportes
+name: Reportar un bug
 about: Ayúdanos a mejorar
-title: Encontré un bug
-labels: ''
+title: 'Bug: '
+labels: bug, Mejora de software
 assignees: Nilofce
-type: Bug
 
 ---
 
