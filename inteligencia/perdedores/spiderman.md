@@ -12,3 +12,9 @@ Spiderman tuvo varias adaptaciones cinematográficas, entre las más representat
 - Tobey Maguire
 - Andrew Garfield
 - Tom Holland
+
+## Conocidos
+Spiderman (Peter Parker), tiene varios conocidos a los cuales podemos usar de rehénes:
+- Gwen Stacy
+- Harry Osborn
+- May Parker
