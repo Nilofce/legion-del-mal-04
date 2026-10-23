@@ -38,11 +38,12 @@ jobs:
       - name: Imprimir inputs
         run: |  
           echo "================================"
-          echo "     Transmisión interceptada"
+          echo "   Transmisión interceptada"
+          echo "================================"
           echo ""
           echo "De: ${{ inputs.villano }}"
           echo ""
-          echo "Fecha: $(date -u +%d-%m-%Y - %H:%M UTC)"
+          echo "Fecha: $(date -u +%d/%m/%Y - %H:%M UTC)"
           echo "----- Mensaje -----"
           cowsay -f eyes "${{ inputs.mensaje }}"
           echo ""
