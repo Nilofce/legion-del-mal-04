@@ -2,7 +2,7 @@ name: Reclutamiento de agente
 on: push 
 
 jobs: 
-    reporte de reclutamiento:
+    reporte-de-reclutamiento:
         runs-on: ubuntu-latest
         
         steps:
