@@ -14,3 +14,18 @@ jobs:
                ls -la
                echo ""
                echo "❌ pero qué pasó? No hay nada"
+            
+            - name: 'Brainiac te otorga permiso para acceder'
+              uses: actions/checkout@v4
+            
+            - name: 'Ahora sí, vamos a ver los planes'
+              run: |
+               ls -la
+               echo "✅ Ahora sí, hay archivos"
+               echo ""
+               echo "Planes:"
+               ls planes/
+               echo "Villanos:"
+               ls villanos/
+               echo "Inteligencia:"
+               ls inteligencia/ 
