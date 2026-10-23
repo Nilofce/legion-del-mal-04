@@ -35,8 +35,9 @@ on:
         options:
           - charizardvice
           - eyes
-          - R2-D2
-          - atom
+          - dragon
+          - ghostbusters
+
 jobs:
   transmitir-mensaje:
     runs-on: ubuntu-latest
