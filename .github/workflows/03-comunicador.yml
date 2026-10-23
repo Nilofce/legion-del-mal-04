@@ -27,6 +27,16 @@ on:
           - 🔴 Alta
           - 🟡 Media
           - 🟢 Baja
+
+      cowsay_model:
+        description: "¿Qué diseño de mensaje quieres?"
+        required: true
+        type: choice
+        options:
+          - charizardvice
+          - eyes
+          - R2-D2
+          - atom
 jobs:
   transmitir-mensaje:
     runs-on: ubuntu-latest
@@ -45,7 +55,7 @@ jobs:
           echo ""
           echo "Fecha: $(date -u +"%d/%m/%Y - %H:%M UTC")"
           echo "----- Mensaje -----"
-          cowsay -f eyes "${{ inputs.mensaje }}"
+          cowsay -f "${{ inputs.cowsay_model }}" "${{ inputs.mensaje }}"
           echo ""
           echo "--- ${{ inputs.villano }}"
           echo "..."
