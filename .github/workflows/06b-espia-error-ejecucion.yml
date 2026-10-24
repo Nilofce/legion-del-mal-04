@@ -14,7 +14,10 @@
 # ╚══════════════════════════════════════════════════════╝
 
 name: 🔍 Escaneo de seguridad de Brainiac
-on: push
+on: 
+    # push:
+
+    workflow_dispatch: # También se puede ejecutar manualmente para la demo en clase
 
 env:
   TZ: "America/La_Paz"
