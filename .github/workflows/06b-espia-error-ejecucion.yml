@@ -15,6 +15,9 @@
 
 name: 🔍 Escaneo de seguridad de Brainiac
 on: push
+
+env:
+  TZ: "America/La_Paz"
 jobs:
   escaneo:
     runs-on: ubuntu-latest
