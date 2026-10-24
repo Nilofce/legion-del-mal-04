@@ -18,3 +18,8 @@ Spiderman (Peter Parker), tiene varios conocidos a los cuales podemos usar de re
 - Gwen Stacy
 - Harry Osborn
 - May Parker
+
+## Estrategia recomendada
+
+**No enfrentar. es altamente peligroso, lo mejor es darle algo para entretenerse**
+Spiderman es alguien poderoso que no conviene enfrentar directamente, lo mejor es alejarlo de nosotros mediante engaños y con algo que lo mantenga entretenido, usen rehénes, amenazas, bombas, o decisiones que no lo dejen estar en batalla, es alguien valeroso que no está dispuesto a aceptar perdidas, es la debilidad ideal para explotar. 
